@@ -1,3 +1,5 @@
+#define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -66,5 +68,16 @@ int main() {
 			break;
 	}
 	printf("m:%d\n", m);
+
+	int a1 = 1;
+	while (a1 < 10)
+	{
+		printf("a:%d\n", a1);
+		a1 *= 2;
+	}
+	for (int a1=1; a1 < 10; a1 *= 2)
+	{
+		printf("a:%d\n", a1);
+	}
 
 }
