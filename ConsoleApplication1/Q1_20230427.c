@@ -52,5 +52,4 @@ int main()
 	minute = eLifespan - year * one_year - day * one_day - hour * one_hour;
 
 	printf("기대 수명 : %d살 %d일 %d시간 %d분\n", year, day, hour, minute);
-
 }
