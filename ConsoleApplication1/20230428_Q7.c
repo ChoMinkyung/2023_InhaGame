@@ -20,5 +20,5 @@ int main()
 		scanf("%d", &n);
 		S += n;
 	} while (n != 0);
-	printf("입력한 모든 정수의 합은 %d입니다.", S);
+	printf("입력한 모든 정수의 합은 %d입니다.", S);  
 }
