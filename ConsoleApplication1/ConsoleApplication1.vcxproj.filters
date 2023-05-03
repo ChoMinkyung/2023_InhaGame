@@ -22,32 +22,14 @@
     <Filter Include="소스 파일\20230428">
       <UniqueIdentifier>{9fc58149-5309-4215-be5f-68be97bbe35e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\20230501">
+      <UniqueIdentifier>{3bcb7589-93e5-494a-a264-fc56def8d15b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20230503">
+      <UniqueIdentifier>{7d0ba92a-fc72-4ce1-b422-113957893c79}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20230501_Q1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20230501_Q2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20230501.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20230501_Q3.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20230501_Q4.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20230501_Q5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20230503_Q1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20230503_Q2.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="20230426.c">
       <Filter>소스 파일\20230426</Filter>
     </ClCompile>
@@ -81,10 +63,35 @@
     <ClCompile Include="20230428_Q7.c">
       <Filter>소스 파일\20230428</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="20230503.c">
-      <Filter>소스 파일</Filter>
-    </None>
+    <ClCompile Include="20230501.c">
+      <Filter>소스 파일\20230501</Filter>
+    </ClCompile>
+    <ClCompile Include="20230501_Q1.c">
+      <Filter>소스 파일\20230501</Filter>
+    </ClCompile>
+    <ClCompile Include="20230501_Q2.c">
+      <Filter>소스 파일\20230501</Filter>
+    </ClCompile>
+    <ClCompile Include="20230501_Q3.c">
+      <Filter>소스 파일\20230501</Filter>
+    </ClCompile>
+    <ClCompile Include="20230501_Q4.c">
+      <Filter>소스 파일\20230501</Filter>
+    </ClCompile>
+    <ClCompile Include="20230501_Q5.c">
+      <Filter>소스 파일\20230501</Filter>
+    </ClCompile>
+    <ClCompile Include="20230503_Q1.c">
+      <Filter>소스 파일\20230503</Filter>
+    </ClCompile>
+    <ClCompile Include="20230503_Q2.c">
+      <Filter>소스 파일\20230503</Filter>
+    </ClCompile>
+    <ClCompile Include="20230503.c">
+      <Filter>소스 파일\20230503</Filter>
+    </ClCompile>
+    <ClCompile Include="20230503_Q3.c">
+      <Filter>소스 파일\20230503</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
