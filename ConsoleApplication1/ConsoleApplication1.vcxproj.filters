@@ -93,5 +93,17 @@
     <ClCompile Include="20230503_Q3.c">
       <Filter>소스 파일\20230503</Filter>
     </ClCompile>
+    <ClCompile Include="20230503_Q4.c">
+      <Filter>소스 파일\20230503</Filter>
+    </ClCompile>
+    <ClCompile Include="20230503_Q5.c">
+      <Filter>소스 파일\20230503</Filter>
+    </ClCompile>
+    <ClCompile Include="20230503_Q6.c">
+      <Filter>소스 파일\20230503</Filter>
+    </ClCompile>
+    <ClCompile Include="20230503_Q7.c">
+      <Filter>소스 파일\20230503</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

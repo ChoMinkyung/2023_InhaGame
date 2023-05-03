@@ -12,7 +12,7 @@
 int main()
 {
 	int pn;
-	int tf = 1;
+	int tf = 1; //1이면 소수, 0이면 소수가 아님
 	int count = 0;
 	printf("2 이상의 정수를 입력하세요 : ");
 	scanf_s("%d", &pn);
