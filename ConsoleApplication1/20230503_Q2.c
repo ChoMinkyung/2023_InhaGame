@@ -26,7 +26,7 @@ int main()
 	{
 		for (int j = 0; j < 10; j++)
 		{
-			if (i+j==n)//((i * 10 + j) + (j * 10 + i) == n * 10 + n)
+			if (i + j == n)//((i * 10 + j) + (j * 10 + i) == n * 10 + n)
 			{
 				printf("A=%d, Z=%d\n", i, j);
 			}
