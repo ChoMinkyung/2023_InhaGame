@@ -31,6 +31,12 @@
     <Filter Include="소스 파일\20230504">
       <UniqueIdentifier>{320ecac5-eb59-4cef-bc6b-9ef41cc9ddb4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\20230505">
+      <UniqueIdentifier>{fdbfd0ea-b674-4103-b4d1-5b9d23bd87ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\20230508">
+      <UniqueIdentifier>{4bd0b503-b3a2-45f7-afa3-eb48ca6b1551}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230426.c">
@@ -125,6 +131,27 @@
     </ClCompile>
     <ClCompile Include="20230504_Q5.c">
       <Filter>소스 파일\20230504</Filter>
+    </ClCompile>
+    <ClCompile Include="20230508.c">
+      <Filter>소스 파일\20230508</Filter>
+    </ClCompile>
+    <ClCompile Include="20230505_Q1.c">
+      <Filter>소스 파일\20230505</Filter>
+    </ClCompile>
+    <ClCompile Include="20230508_Q1.c">
+      <Filter>소스 파일\20230508</Filter>
+    </ClCompile>
+    <ClCompile Include="20230508_Q2.c">
+      <Filter>소스 파일\20230508</Filter>
+    </ClCompile>
+    <ClCompile Include="20230505_Q2.c">
+      <Filter>소스 파일\20230505</Filter>
+    </ClCompile>
+    <ClCompile Include="20230505_Q3.c">
+      <Filter>소스 파일\20230505</Filter>
+    </ClCompile>
+    <ClCompile Include="20230505_Q4.c">
+      <Filter>소스 파일\20230505</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
