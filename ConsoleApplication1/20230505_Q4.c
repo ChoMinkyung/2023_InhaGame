@@ -12,7 +12,6 @@ int main()
 	int max_len = 0;
 	while ((ch = getchar()) != EOF)
 	{
-		//ch = getchar();
 		if (ch == '\n')
 		{
 			if (max_len < count) max_len = count;

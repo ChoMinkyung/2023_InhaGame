@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\20230508">
       <UniqueIdentifier>{4bd0b503-b3a2-45f7-afa3-eb48ca6b1551}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\20230510">
+      <UniqueIdentifier>{affff54e-1298-426e-a710-a6c063139c4b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230426.c">
@@ -152,6 +155,21 @@
     </ClCompile>
     <ClCompile Include="20230505_Q4.c">
       <Filter>소스 파일\20230505</Filter>
+    </ClCompile>
+    <ClCompile Include="20230510.c">
+      <Filter>소스 파일\20230510</Filter>
+    </ClCompile>
+    <ClCompile Include="20230510_Q1.c">
+      <Filter>소스 파일\20230510</Filter>
+    </ClCompile>
+    <ClCompile Include="20230510_Q2.c">
+      <Filter>소스 파일\20230510</Filter>
+    </ClCompile>
+    <ClCompile Include="20230510_Q3.c">
+      <Filter>소스 파일\20230510</Filter>
+    </ClCompile>
+    <ClCompile Include="20230510_Q4.c">
+      <Filter>소스 파일\20230510</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
