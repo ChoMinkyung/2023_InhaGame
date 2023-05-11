@@ -177,5 +177,17 @@
     <ClCompile Include="20230511_Q1.c">
       <Filter>소스 파일\20230511</Filter>
     </ClCompile>
+    <ClCompile Include="20230511.c">
+      <Filter>소스 파일\20230511</Filter>
+    </ClCompile>
+    <ClCompile Include="20230511_Q2.c">
+      <Filter>소스 파일\20230511</Filter>
+    </ClCompile>
+    <ClCompile Include="20230511_Q3.c">
+      <Filter>소스 파일\20230511</Filter>
+    </ClCompile>
+    <ClCompile Include="20230511_Q4.c">
+      <Filter>소스 파일\20230511</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
