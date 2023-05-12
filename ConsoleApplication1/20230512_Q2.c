@@ -129,13 +129,14 @@ void Finput(int total_student, Student* head, Student* current)
 		for (int i = 0; i < total_student; i++)
 		{
 			//입력한 번호가 기존 번호와 같으면 다시 입력
-			if ((head + i)->no == current->no)
+			if (head->no == current->no)
 			{
 				current->no = -1;
 				i--;
 				printf("이미 있는 번호입니다. 다른 번호를 입력하세요.\n");
 				break;
 			}
+			head = head->next;
 
 		}
 	}
@@ -192,9 +193,9 @@ void Fsearch(int total_student, Student* head, Student* current)
 		if (strcmp(current->name, name) == 0)
 		{
 			Foutput(1, current,current);
-			current = current->next;
 			find++;
 		}
+		current = current->next;
 	}
 	if (find == 0) printf("찾을 수 없습니다.\n");
 
